@@ -1,20 +1,14 @@
-# Android Projects
+# Java Projects
 
-A repository chronicling the first set of Android projects I developed (since 2019) while learning a wide range of techniques required to put together a standard mobile application.
+A repository for the first set of Java programs I wrote (since 2018) while learning a wide range of techniques required to put together a standard mobile application.
 
 ## Getting Started
 
-After cloning the repository, you may run the programs using **Android Studio** along with an emulator (AVD) or an actual device for testing purposes. 
+After cloning the repository, you may run the programs using **IntelliJ IDEA** or an IDE/editor of your choice. 
 
 ### Prerequisites
 
 - **Java 8**: At the moment of writing, the source code was written with Java 8. Should you wish to use a higher/up-to-date version, be sure to account for compatibility makeshifts.
-- **A.S. 3.5**: Be wary of compatibility issues for a new version of Android Studio.
-- **Gradle**: Model - 3.5.3; Build - 5.4.1.
-- **Firebase**: Auth:19.3.0 /Core: 17.2.3/Database: 19.2.1/UI: 6.2.0.
-- **Google Play Services**: 4.3.3
-- **API Level 23** (modified when needed).
-- **SDK Version 23** (modified when needed).
 
 ## Contributing
 
@@ -22,11 +16,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## References
 
-* **Paul Deitel** - *Major resource* - [Android 6 For Programmers 3e](https://github.com/pdeitel/AndroidHowToProgram3e)
-* **Ted Hagos** - [Learn Android Studio 3](https://github.com/Apress/learn-android-studio-)
-* **Laurence Moroney** - [The Definitive Guide To Firebase](https://github.com/Apress/def-guide-to-firebase)
-* **Onur Cinar** - [Android Quick APIs Reference](https://g.co/kgs/A5RfbX)
-* **Neil Smyth** - [Android Studio 3 Essentials](https://www.techotopia.com/index.php/Android_Studio_Development_Essentials_-_Android_6_Edition)
+* **Herbert Schildt** - [The Complete Java Reference 8e](https://www.oreilly.com/library/view/java-the-complete/9781260463422/)
+* **Paul Deitel** - [Java How To Program 11e](https://github.com/pdeitel/JavaHowToProgram11e_EarlyObjects)
 
 ## License
 
